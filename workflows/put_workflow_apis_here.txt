@@ -1,0 +1,9 @@
+Insert workflow API JSON files here.
+
+To export a workflow in API format from ComfyUI:
+  1. Enable Dev Mode in ComfyUI settings
+  2. Click "Save (API Format)"
+  3. Place the exported .json file in this folder
+  4. Restart ComfyUI or reload the node
+
+These files are gitignored and will not be committed.
