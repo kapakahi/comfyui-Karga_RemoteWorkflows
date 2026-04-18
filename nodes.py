@@ -395,7 +395,7 @@ class KargaRemoteWorkflow:
 # ── Registration ──────────────────────────────────────────────────────────────
 
 NODE_CLASS_MAPPINGS = {
-    "Karga": RemoteWorkflow,
+    "Karga": KargaRemoteWorkflow,
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
