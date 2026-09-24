@@ -1,6 +1,8 @@
 # Karga Remote Workflow
 
-A standalone ComfyUI custom node that sends workflows to a remote ComfyUI instance and returns the output image — all in a single node. Part of the Karga ecosystem, maintained as its own separate repository.
+A standalone ComfyUI custom node that sends workflows to a remote ComfyUI instance and returns the output image — all in a single node. 
+
+STALE. Not maintained. 
 
 ## Features
 
